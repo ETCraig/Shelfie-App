@@ -1,0 +1,127 @@
+/* .binsComp {
+    
+} */
+.binsHeader {
+    background-color: #D34735;
+    width: 1500px;
+    height: 90px;
+}
+.bckGround {
+    background: #AB2A19;
+    width: 100px;
+    height: 90px;
+    top: -1px;
+    left: 50px;
+}
+.icon {
+    position: absolute;
+    right: 1650px;
+    background-color: #AB2A19;
+    background: #AB2A19;
+    height: 90px;
+    width: 50px;
+}
+.icon img {
+    background-color: #AB2A19;
+    height: 90px;
+    top: -1px;
+}
+.shelfTitle {
+    position: absolute;
+    left: 310px; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 500px;
+    color: white;
+    top: -52px;
+    text-decoration: none;
+}
+.shelfTitle h1 {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+.binBckGround {
+    background: #ED6B5A;
+    width: 100px;
+    height: 0px;
+    left: 200px;
+}
+.binTitle {
+    position: absolute;
+    left: 630px; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 500px;
+    color: white;
+    top: -52px;
+    text-decoration: none;
+}
+.binTitle h1 {
+    background: #ED6B5A;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    width: 890px;
+    height: 95.5px;;
+}
+.bin header img {
+    padding-left: 3.5vw;
+    padding-top: 3.5vh;
+}
+.edit {
+    position: relative;
+    top: 3vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+}
+.edit input {
+    border-radius: 10px;
+    padding: 1.5%;
+    min-width: 20%;
+    width: auto;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 1.5%;
+    font-weight: bold;
+}
+.edit input {
+    border: 1px solid #FFB8AF;
+}
+.edit button {
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    padding: 1.5%;
+    min-width: 20%;
+    width: auto;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 1.5%;
+    font-weight: bold;
+}
+.edit span {
+    margin-top: 0;
+    margin-right: 30%;
+    margin-left: 1%;
+    text-align: left;
+    justify-content: left;
+    font-size: 20px;
+}
+.edit img {
+    position: absolute;
+    left: 0;
+    top: 15;
+    max-width:25%;
+    max-height: 35%;
+    padding: 2% 3%;
+    width: auto;
+    height: auto;
+}
+.save {
+    background: #40F99B;
+    border: none;
+    border-radius: 35px;
+}

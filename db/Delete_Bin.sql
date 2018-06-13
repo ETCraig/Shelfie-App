@@ -1,0 +1,1 @@
+UPDATE bins SET NAME = null, price = null, image = null WHERE shelf_id = $1 AND bin_id = $2;

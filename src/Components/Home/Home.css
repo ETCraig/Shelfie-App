@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+img {
+  position: absolute;
+  color: white;
+  left: 300px;
+  top: 0px;
+}
+.mainHeader {
+  background-color: #AB2A19;
+  width: 1536px;
+  height: 90px;
+}
+.title {
+  position: absolute;
+  left: 400px; 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+  color: white;
+  top: -16px;
+}
+.A {
+  position: absolute;
+  color: white;
+  border: 1px solid #D34735;
+  background: #D34735;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 16%;
+  width: 800px;
+  height: 50px;
+}
+.A {
+  position: absolute;
+  font-size: 30px;
+  top:16%;
+  left: 20%;
+}
+.B {
+  position: absolute;
+  color: white;
+  border: 1px solid #D34735;
+  background: #D34735;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 32%;
+  width: 800px;
+  height: 50px;
+}
+.B {
+  position: absolute;
+  font-size: 30px;
+  top:32%;
+  left: 20%;
+}
+.C {
+  position: absolute;
+  color: white;
+  border: 1px solid #D34735;
+  background: #D34735;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 48%;
+  width: 800px;
+  height: 50px;
+}
+.C {
+  position: absolute;
+  font-size: 30px;
+  top:48%;
+  left: 20%;
+}
+.D {
+  position: absolute;
+  color: white;
+  border: 1px solid #D34735;
+  background: #D34735;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 64%;
+  width: 800px;
+  height: 50px;
+}
+.D {
+  position: absolute;
+  font-size: 30px;
+  top:64%;
+  left: 20%;
+}
+.A>h2 {
+  position: absolute;
+  top: -30%;
+  left: 20%;
+}
+.B>h2 {
+  position: absolute;
+  top: -30%;
+  left: 20%;
+}
+.C>h2 {
+  position: absolute;
+  top: -30%;
+  left: 20%;
+}
+.D>h2 {
+  position: absolute;
+  top: -30%;
+  left: 20%;
+}

@@ -1,0 +1,111 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.dHeader {
+  background-color: #D34735;
+  width: 1366px;
+  height: 90px;
+}
+.dTitle {
+  position: absolute;
+  left: 280px; 
+  font-family: 'Open Sans', sans-serif;
+  font-size: 45px;
+  font-weight: 500px;
+  color: white;
+  top: -16px;
+}
+.b1 {
+  position: absolute;
+  color: white;
+  border: 1px solid #ED6B5A;
+  background: #ED6B5A;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 16%;
+  width: 800px;
+  height: 50px;
+}
+.b2 {
+  position: absolute;
+  color: white;
+  border: 1px solid #ED6B5A;
+  background: #ED6B5A;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 32%;
+  width: 800px;
+  height: 50px;
+}
+.b3 {
+  position: absolute;
+  color: white;
+  border: 1px solid #ED6B5A;
+  background: #ED6B5A;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 48%;
+  width: 800px;
+  height: 50px;
+}
+.b4 {
+  position: absolute;
+  color: white;
+  border: 1px solid #ED6B5A;
+  background: #ED6B5A;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 64%;
+  width: 800px;
+  height: 50px;
+}
+.b1>h2 {
+  position: absolute;
+  top: -5%;
+  left: 20%;
+  font-size: 30px;
+}
+.b2>h2 {
+  position: absolute;
+  top: -5%;
+  left: 20%;
+  font-size: 30px;
+}
+.b3>h2 {
+  position: absolute;
+  top: -5%;
+  left: 20%;
+  font-size: 30px;
+}
+.b4>h2 {
+  position: absolute;
+  top: -5%;
+  left: 20%;
+  font-size: 30px;
+}
+.addIn {
+  position: absolute;
+  color: black;
+  border: 1px solid #FFB8AF;
+  background: #FFB8AF;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 80%;
+  width: 800px;
+  height: 50px;
+}
+.addIn>h2 {
+  position: absolute;
+  top: -5%;
+  left: 20%;
+  font-size: 30px;
+}

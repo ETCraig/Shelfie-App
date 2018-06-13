@@ -1,0 +1,89 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.binsComp {
+    
+}
+.binsHeader {
+    background-color: #D34735;
+    width: 1536px;
+    height: 90px;
+}
+.bckGround {
+    background: #AB2A19;
+    width: 300px;
+    height: 90px;
+    top: -1px;
+    left: 50px;
+}
+.icon {
+    position: absolute;
+    right: 1650px;
+    background-color: #AB2A19;
+    background: #AB2A19;
+    height: 90px;
+    width: 100px;
+}
+img {
+    background-color: #AB2A19;
+    height: 90px;
+    top: -1px;
+}
+.binsTitle {
+    position: absolute;
+    left: 310px; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 500px;
+    color: white;
+    top: -52px;
+    text-decoration: none;
+}
+.binsTitle h1 {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+/* .binsButtons {
+  position: absolute;
+  color: black;
+  border: 1px solid #ED6B5A;
+  background: #ED6B5A;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 20px;
+  left: 20%;
+  top: 16%;
+  width: 800px;
+  height: 50px;
+  position: absolute;
+  font-size: 30px;
+  top:16%;
+  left: 20%;
+}*/
+.binsComp > h2 {
+    left: 20%;
+    font-size: 30px;
+    top:16%;
+  }
+  .binsComp .container {
+    background-color: #ED6B5A;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid #ED6B5A;
+    position: relative;
+    padding: 12px;
+    border-radius: 10px;
+    left: 20%;
+    top: 16%;
+    width: 800px;
+    height: 50px;
+    font-size: 30px;
+    left: 20%;
+  }
+  .binsButtons > h2 {
+      padding: 0px;
+  }
+  #addingButton {
+    background-color: #FFB8AF;
+}
