@@ -5,7 +5,7 @@ import Bin from './Components/Bin/Bin';
 import Bins from './Components/Bins/Bins';
 import Create from './Components/Create/Create';
 import Home from './Components/Home/Home';
-// W5hntcc81
+
 export default (
     <Switch>
         <Route component = {Home} exact path = "/" />
